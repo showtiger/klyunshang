@@ -11,7 +11,7 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>http://117.158.1.227:666/release/klkj/ipa/c-merchant-ios.ipa</string>
+                    <string>http://116.255.217.133:8087/apk/c-merchant-ios.ipa</string>
                 </dict>
 <dict>
 <key>kind</key>
@@ -19,7 +19,7 @@
 <key>needs-shine</key>
 <false/>
 <key>url</key>
-<string>http://www.zyyapp.com/image/icon512.png</string>
+<string>http://www.kalian360.com/image/icon512.png</string>
 </dict>
 <dict>
 <key>kind</key>
@@ -27,7 +27,7 @@
 <key>needs-shine</key>
 <true/>
 <key>url</key>
-<string>http://117.158.1.227:666/release/klkj/ipa/image/icon57.png</string>
+<string>http://www.kalian360.com/image/icon57.png</string>
 </dict>
             </array>
             <key>metadata</key>
